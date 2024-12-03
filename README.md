@@ -80,23 +80,4 @@ Enter action (b to open, f to flag) and coordinates (x y): b 0 0
 - Use flags wisely; only flag tiles when you are certain of a bomb's location.
 - Look for patterns among the numbers to deduce bomb positions.
 
-### Debugging
-If you encounter issues while running the game:
-- Verify that your compiler supports ANSI C.
-- Use debugging tools such as `gdb` to trace any runtime errors.
-- Ensure the game files are in the correct directory and accessible for compilation.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
-## Contribution
-
-Feel free to submit issues and pull requests. Contributions are welcome!
-
-When contributing, please adhere to the following guidelines:
-1. Provide clear descriptions of changes.
-2. Test your code to ensure it does not break existing functionality.
-3. Format your code consistently with the existing style.
-
 Happy Coding!
